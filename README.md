@@ -1,5 +1,3 @@
-
-
 <h1 align="left">Oi👋 Bem-vindo(a)!</h1>
 
 ###
@@ -8,15 +6,21 @@
 
 ###
 
+<div align="center">
+  <img height="287" src="https://irmaodojorel.com.br/wp-content/uploads/2023/08/01-Irmao-do-Jorel.webp"  />
+</div>
+
+###
+
 <h2 align="left"></h2>
 
 ###
 
-<p align="left">🎓 Aprendiz | Técncico em Informática para Internet.<br><br><br><br>💻 A cada dia tentando aprender coisas novas.</p>
+<p align="left">🎓 Aprendiz | Técncico em Informática para Internet.<br><br>💻 A cada dia tentando aprender coisas novas.</p>
 
 ###
 
-<h2 align="left">Resursos que uso:</h2>
+<h2 align="left">Resursos que uso/já utilizei:</h2>
 
 ###
 
@@ -40,14 +44,11 @@
 
 ###
 
-<div align="center">
-  <img height="200" src=""  />
-</div>
+<h3 align="left">Aonde me achar:</h3>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
