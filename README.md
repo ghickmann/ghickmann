@@ -1,11 +1,7 @@
-# Bem - vindo(a) 👋
 
-Meu nome é Gabriely Vitória Hickmann!
 
-🎓 Aprendiz | Técncico em Informática para Internet.  
-💻 A cada dia tentando aprender coisas novas. 
 
-<h1 align="left">Oi👋 Bem-vindo(a)!</h1>
+<h1 align="left"> Bem - vindo(a) 👋)!</h1>
 
 ###
 
