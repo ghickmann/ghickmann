@@ -9,3 +9,6 @@ Meu nome é Gabriely Vitória Hickmann!
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+# 📊 Estatísticas do GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghickmann&layout=compact)
