@@ -1,19 +1,18 @@
 
 
-
-<h1 align="left"> Bem - vindo(a) 👋)!</h1>
-
-###
-
-<h5 align="left">Meu nome é Gabriely Vitória Hickmann.<br><br><br>No momento estou cursando Informática para Internet na Centro-Weg</h5>
+<h1 align="left">Oi👋 Bem-vindo(a)!</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">👤Meu nome é Gabriely Vitória Hickmann.</p>
 
 ###
 
-<p align="left">🎓 Aprendiz | Técncico em Informática para Internet.<br><br>💻 A cada dia tentando aprender coisas novas.</p>
+<h2 align="left"></h2>
+
+###
+
+<p align="left">🎓 Aprendiz | Técncico em Informática para Internet.<br><br><br><br>💻 A cada dia tentando aprender coisas novas.</p>
 
 ###
 
@@ -37,6 +36,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src=""  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
