@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img height="287" src="https://irmaodojorel.com.br/wp-content/uploads/2023/08/01-Irmao-do-Jorel.webp"  />
-</div>
-
-###
-
 <h2 align="left"></h2>
 
 ###
